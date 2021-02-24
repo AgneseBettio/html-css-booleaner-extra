@@ -18,13 +18,12 @@ header{
     background-color:black;
     border-radius: 30px;
     margin:30px 50px;
-    padding: 30px 15px;
+    padding: 30px 10px;
     border: 2px dashed #ffffff;
 }
   
 #img-logo{
-    height: 50px;
-    content: url(img/logo.svg);
-    display: inline-block;
-    margin-left: 30px;
+    height: 60px;
+    display: block;
+    margin: auto;
 }
