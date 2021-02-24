@@ -19,7 +19,9 @@ body{
 header{
     margin:30px 50px;
     padding: 30px 10px;
-    
+    background-image:url(img/pattern.png);
+    background-size:20%;
+  
 }
 
 header,.box{
@@ -39,7 +41,7 @@ ul{
 }
 section>img{
     border-radius: 10px;
-    border: 5px solid #000000;
+    border: 5px solid #001763;
     width: 48%;
     height: 400px;
     margin:auto;
